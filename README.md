@@ -17,7 +17,7 @@ It houses configuration files such as ```chain.json``` and ```assetlist.json```,
 ##  ```chain.json```
 A sample chain.json includes the following information.
 ```json
-{
+{dekon
   "$schema": "../../chain.schema.json",
   "chain_name": "initia",
   "chain_id": "initiation-1",
